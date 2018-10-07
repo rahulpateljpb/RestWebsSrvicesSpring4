@@ -1,4 +1,4 @@
-package com.websystique.springmvc;
+package com.springmvc;
 
 import java.net.URI;
 import java.util.LinkedHashMap;
@@ -6,7 +6,7 @@ import java.util.List;
 
 import org.springframework.web.client.RestTemplate;
 
-import com.websystique.springmvc.model.User;
+import com.springmvc.model.User;
 
 public class SpringRestTestClient {
 
